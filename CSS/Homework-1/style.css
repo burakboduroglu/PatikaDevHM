@@ -1,0 +1,60 @@
+.navbar-li{
+    display: inline-block;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#top-nav{
+    text-align: center;
+    font-size: 18px;
+}
+
+#nav-header{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 27px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+#enter-p{
+    text-align: center;
+}
+#categories{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-position: inside;
+}
+
+#sub-title-cat{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: chocolate;
+    padding-left: 30px;
+}
+#footer-p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 0;
+    padding-left: 45%;
+    position: absolute;
+}
+
+.contact-tbl{
+    margin-right: auto;
+    margin-left: auto;
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.about-article{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(32, 29, 29);
+}
+
