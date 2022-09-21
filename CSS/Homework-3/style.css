@@ -1,0 +1,87 @@
+/* Navigation Bar */
+.nav-list{
+    text-align: left;
+    padding-left: 10px;
+}
+.nav-list li{
+    list-style-type: none;
+    display: inline-block;
+    width: 40px;   
+}
+.nav-list a{
+    text-decoration: none;
+    color: rgb(29, 27, 27);
+    font-size: 15px;
+}
+
+.right-nav{
+    float: right;
+    padding-right: 70px;
+}
+
+.categories-logo{
+    padding-left: 10px;
+}
+
+.sign-in{
+    width: 60px;
+    padding-left: 0px;
+    background-color: #4267B2;
+    border-radius: 3px;
+    color: white;
+    height: 30px;
+
+}
+
+.google-logo{
+    width: 450;
+    height: 218px;
+    margin-top: 40px;
+}
+
+.search-text{
+    width: 550px;
+    height: 30px;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 1px solid;
+}
+
+.bottom-but{
+    background-color: rgb(250, 249, 249);
+    border-radius: 5px;
+    border: 1px solid;
+    text-align: center;
+}
+.nav-list li:hover   {
+    text-shadow: 0.3px 0.5px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #f2f2f2;
+    width: 100%;
+}
+
+.footerli{
+    list-style-type: none;
+    display: inline-block;
+    margin-bottom: 0;
+    padding-left: 3px;
+}
+
+.footerli a{
+    text-decoration: none;
+    color: rgb(29, 27, 27);
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+}
+
+.footerli :hover   {
+    text-shadow: 1px 1px;
+}
+.div-left{
+    float: right;
+    padding-right: 60px;
+}
