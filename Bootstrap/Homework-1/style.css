@@ -1,0 +1,32 @@
+body{
+    background-color: #E9ECEF ;
+}
+
+#hello{
+    color: rgb(70, 102, 18);
+    text-align: center;
+    font-size: 60px;
+}
+
+#home-text{
+    font-size: 24px;
+    text-align: center;
+}
+
+ #header{
+    color: rgb(153, 153, 26);
+    text-align: center;
+ }
+
+ #details{
+    text-align: center;
+ }
+
+ #details-list{
+    list-style-type: none;
+ }
+
+ #about-us-header{
+    color: brown;
+    text-align: center;
+ }
